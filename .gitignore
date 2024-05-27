@@ -1,0 +1,4 @@
+migration_project_local
+.DS_Store
+.idea
+oracle-to-postgres-migration.iml
